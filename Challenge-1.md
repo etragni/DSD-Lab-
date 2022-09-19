@@ -12,3 +12,4 @@
 
 - Create a new image from the container "nginx-app" call the new image  "nginx-custom". 
 
+- Ensure that the container nginx-app is always up.  
