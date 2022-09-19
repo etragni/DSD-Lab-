@@ -8,7 +8,7 @@
 
 - Rename the container from "web-01" to  "ngix-app"
 
-- Install the jq package inside the container. 
+- Install the vim package inside the container. 
 
-- Create a new image  based on this customization called "nginx-custom". 
+- Create a new image from the container "nginxapp" call the new image  "nginx-custom". 
 
