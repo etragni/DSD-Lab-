@@ -6,9 +6,9 @@
 
 - Ensure the container is accessible on TCP port 8888 of the Docker host. 
 
-- Rename the container from "web-01" to  "ngix-app"
+- Rename the container from "web-01" to  "nginx-app"
 
 - Install the vim package inside the container. 
 
-- Create a new image from the container "nginxapp" call the new image  "nginx-custom". 
+- Create a new image from the container "nginx-app" call the new image  "nginx-custom". 
 
