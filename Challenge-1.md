@@ -10,5 +10,5 @@
 
 - Install the jq package inside the container. 
 
-- Create a new image  based on this customization called "ngnx-custom". 
+- Create a new image  based on this customization called "nginx-custom". 
 
